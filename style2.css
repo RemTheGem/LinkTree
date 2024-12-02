@@ -23,6 +23,7 @@ h1, h2, p{
 h2{
     margin-right: 60px;
     margin-top: 3px;
+    color: white;
     
 }
 p{
@@ -35,6 +36,9 @@ p{
 }
 h1{
     margin-bottom: 3px ;
-    
+    color: white;
     font-size: 30px;
+}
+a{
+    color: white;
 }
