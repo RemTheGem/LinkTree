@@ -23,7 +23,7 @@ h1, h2, p{
 h2{
     margin-right: 60px;
     margin-top: 3px;
-    color: #000;
+    
 }
 p{
     margin-top: 1px;
@@ -35,9 +35,6 @@ p{
 }
 h1{
     margin-bottom: 3px ;
-    color: rgb(0, 0, 0);
+    
     font-size: 30px;
-}
-a {
-    color: rgb(0, 0, 0);
 }
